@@ -1,0 +1,7 @@
+** This secondary iteration adds the ability to analyze and create data modeling of transaction histories to the V.1 model
+
+** In a typical Solana application, transaction history is not stored in the application itself, but rather fetched from the Solana blockchain as needed. This is usually done through the Solana RPC API, which provides various methods to query transaction history for a given account or signature.
+
+However, if you're building a Rust-based application and want to keep an internal record of transaction history, you can certainly do so. Below is an example that extends the previous code to store transaction history in a simple in-memory data structure:
+
+To begin, define a struct for transaction history:
