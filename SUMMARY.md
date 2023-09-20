@@ -5,3 +5,7 @@
 ## Group 1
 
 * [♾ Linear Regression](group-1/linear-regression.md)
+
+***
+
+* [📡 Logistic Regression](logistic-regression.md)
