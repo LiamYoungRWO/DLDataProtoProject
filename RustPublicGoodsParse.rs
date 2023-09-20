@@ -90,5 +90,5 @@ solana-sdk = "1.9.0"
 
 ## Replace 'YourPublicGoodsProgramIDHere' with the actual program ID of your public goods program.
 
-This is a simplified example and assumes that you've filled in the serialized transaction data in the 'serialized_tx' variable. 
-Add proper error handling for a real-world application
+**This is a simplified example and assumes that you've filled in the serialized transaction data in the 'serialized_tx' variable. 
+** Add proper error handling for a real-world application** 
