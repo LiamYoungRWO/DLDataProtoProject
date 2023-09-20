@@ -2,8 +2,7 @@
 description: >-
   Linear regression models the linear relationship between a dependent variable
   and one or more independent variables.
-cover: "./Blockchaintwo.jpeg"
-
+cover: Blockchaintwo.jpeg
 coverY: 0
 ---
 
@@ -29,7 +28,6 @@ coverY: 0
 14\. Generalized Linear Models (GLM)\
 15\. Hierarchical Linear Models (HLM) / Multi-level Regression
 
-\
 
 
 <mark style="color:purple;">Key Concepts:</mark>
