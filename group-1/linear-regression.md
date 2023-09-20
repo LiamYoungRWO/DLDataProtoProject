@@ -32,7 +32,9 @@ coverY: 0
 
 <mark style="color:purple;">Key Concepts:</mark>
 
-Continuous Outcome, Least Squares, Coefficients
+* Continuous Outcome
+* &#x20;Least Squares
+* Coefficients
 
 \
 <mark style="color:purple;">Applications:</mark> Predicting future asset price action, Forecasting implementations and adoptions
