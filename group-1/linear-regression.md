@@ -2,6 +2,8 @@
 description: >-
   Linear regression models the linear relationship between a dependent variable
   and one or more independent variables.
+cover: ../.gitbook/assets/Blockchaintwo.jpeg
+coverY: 0
 ---
 
 # ♾ Linear Regression

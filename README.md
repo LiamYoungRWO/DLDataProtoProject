@@ -1,5 +1,5 @@
 ---
-cover: .gitbook/assets/Blockchain 2.jpeg
+cover: broken-reference
 coverY: 0
 ---
 
