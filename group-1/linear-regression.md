@@ -37,4 +37,7 @@ coverY: 0
 * Coefficients
 
 \
-<mark style="color:purple;">Applications:</mark> Predicting future asset price action, Forecasting implementations and adoptions
+<mark style="color:purple;">Applications:</mark>
+
+* Predicting future asset price action
+* Forecasting implementations and adoptions
